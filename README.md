@@ -1,16 +1,15 @@
-### Hi there 👋
+# Hi there, I'm Raisyah Vidia Rahayu - aka [Asya](https://www.instagram.com/aayish.ra/) 👋
+## About me:
+- 🌱 I’m currently learning HTML, CSS and Javascript
 
-<!--
-**Raisy177/Raisy177** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 💬 Ask me about anything
+- 📫 How to reach me: raisyahvidia17@gmail.com
 
-Here are some ideas to get you started:
+## Education:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ #### 1. [SMA N 4 Sukabumi](http://sman4kotasukabumi.sch.id/index.php) | MIPA | Sukabumi `2015-2018`
+   - Head of regeneration division - Rohis At-Tauhid
+   - Member of high school basketball team
+---
+
+
